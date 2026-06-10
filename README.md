@@ -47,14 +47,30 @@
 
 ## 💻 Proyectos Destacados
 
-### 🛒 E-Commerce Web Application
-Desarrollo completo de una aplicación web de comercio electrónico utilizando **PHP** puro para la lógica del servidor y la gestión de sesiones.
-* **Backend & DB:** Diseño estructurado de la base de datos en **MySQL** y pasarela de lógica personalizada para el carrito de compras y autenticación de usuarios.
-* **Frontend:** Interfaz de usuario dinámica maquetada mediante **HTML/CSS** y optimizada con **JavaScript** para mejorar la experiencia de navegación.
+### 🏦 [BancaOnline](https://github.com/JavierSaezz/BancaOnline)
+Aplicación web basada en un sistema bancario oficial desarrollado colaborativamente bajo metodología ágil.
+* **Arquitectura:** Estructura limpia basada en el patrón **Modelo-Vista-Controlador (MVC)** para separar la lógica de negocio de la interfaz.
+* **Tecnologías:** Desarrollo del Backend con **PHP** y gestión de datos relacionales. Frontend dinámico e interactivo construido con **JavaScript**, **jQuery**, **CSS** y **Sass**.
+* **Despliegue:** Configuración y subida exitosa del entorno a producción utilizando **Cpanel** y **GUEBS**.
 
-### 🌐 Colaboraciones y Portales Web
-* **[span_2](start_span)Osakidetza Portal:** Participación activa en el desarrollo del portal utilizando programación estructurada en PHP[span_2](end_span).
-* **[span_3](start_span)Plataformas Corporativas:** Configuración, personalización y resolución de incidencias en sitios corporativos utilizando WordPress, componentes interactivos en PHP y firmas integradas de correo electrónico[span_3](end_span).
+<!-- DESCOMENTAR ESTA SECCIÓN CUANDO SUBAS LOS PROYECTOS Borrando esta línea
+### 📝 Blog Personal
+Espacio web dedicado a la publicación de artículos y gestión de contenidos.
+* **Características:** Panel de administración para gestión de posts, categorías y comentarios.
+* **Tecnologías:** PHP, MySQL para el almacenamiento de entradas y maquetación limpia con HTML/Sass.
+
+### 🛒 Tienda Online
+Plataforma de comercio electrónico con flujo completo de usuario.
+* **Características:** Carrito de compras funcional, sistema de autenticación de usuarios y pasarela de gestión de stock.
+* **Tecnologías:** PHP para la lógica del servidor, sesiones de usuario seguras y base de datos MySQL estructurada.
+
+### 👥 Red Social
+Aplicación interactiva para conectar usuarios en tiempo real.
+* **Características:** Sistema de perfiles, publicación de estados, opción de dar "me gusta" y seguimiento entre usuarios.
+* **Tecnologías:** Backend robusto en PHP/Java, consultas optimizadas a base de datos y Frontend interactivo con JavaScript/jQuery.
+Hasta aquí la línea de comentario -->
+
+---
 
 ---
 
