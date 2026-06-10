@@ -6,9 +6,7 @@
       <p>Me especializo en la creación y optimización de soluciones integrales, combinando experiencia práctica tanto en Frontend como en Backend para resolver incidencias técnicas y aportar código funcional y estructurado.</p>
       <p>🚀 Habitual a metodologías ágiles (Scrum, ETHAZI) y siempre dispuesto a afrontar nuevos retos técnicos con autonomía y compromiso.</p>
     </td>
-    <td width="30%" valign="middle" align="center">
-      <img src="https://github.com/JavierSaezz.png" width="150" style="border-radius: 50%;" alt="Javier Sáez">
-    </td>
+
   </tr>
 </table>
 
