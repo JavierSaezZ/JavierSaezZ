@@ -1,4 +1,78 @@
-## Hi there 👋
+<table border="0" width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <h1>¡Hola! Soy Javier Sáez 👋</h1>
+      <p><strong>Desarrollador de Aplicaciones Web </strong></p>
+      <p>Me especializo en la creación y optimización de soluciones integrales, combinando experiencia práctica tanto en Frontend como en Backend para resolver incidencias técnicas y aportar código funcional y estructurado.</p>
+      <p>🚀 Habitual a metodologías ágiles (Scrum, ETHAZI) y siempre dispuesto a afrontar nuevos retos técnicos con autonomía y compromiso.</p>
+    </td>
+    <td width="30%" valign="middle" align="center">
+      <img src="https://github.com/JavierSaezz.png" width="150" style="border-radius: 50%;" alt="Javier Sáez">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### Lenguajes y Frameworks (De más a menos experiencia)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+</p>
+
+### Entornos y Herramientas de Trabajo
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver">
+</p>
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JavierSaezz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Javier" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierSaezz&layout=compact&theme=dark&langs_count=6" alt="Lenguajes más usados por Javier" height="180" />
+</p>
+
+---
+
+## 💻 Proyectos Destacados
+
+### 🛒 E-Commerce Web Application
+Desarrollo completo de una aplicación web de comercio electrónico utilizando **PHP** puro para la lógica del servidor y la gestión de sesiones.
+* **Backend & DB:** Diseño estructurado de la base de datos en **MySQL** y pasarela de lógica personalizada para el carrito de compras y autenticación de usuarios.
+* **Frontend:** Interfaz de usuario dinámica maquetada mediante **HTML/CSS** y optimizada con **JavaScript** para mejorar la experiencia de navegación.
+
+### 🌐 Colaboraciones y Portales Web
+* **[span_2](start_span)Osakidetza Portal:** Participación activa en el desarrollo del portal utilizando programación estructurada en PHP[span_2](end_span).
+* **[span_3](start_span)Plataformas Corporativas:** Configuración, personalización y resolución de incidencias en sitios corporativos utilizando WordPress, componentes interactivos en PHP y firmas integradas de correo electrónico[span_3](end_span).
+
+---
+
+## 📩 ¡Conecta conmigo!
+
+Para cualquier propuesta laboral, dudas o simplemente hablar de código, puedes encontrarme en:
+
+<p align="left">
+  <a href="https://linkedin.com/in/javiersaezz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:asaez22.az@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
 
 <!--
 **JavierSaezZ/JavierSaezZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
