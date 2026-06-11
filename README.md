@@ -6,7 +6,18 @@
       <p>Me especializo en la creación y optimización de soluciones integrales, combinando experiencia práctica tanto en Frontend como en Backend para resolver incidencias técnicas y aportar código funcional y estructurado.</p>
       <p>🚀 Habitual a metodologías ágiles (Scrum, ETHAZI) y siempre dispuesto a afrontar nuevos retos técnicos con autonomía y compromiso.</p>
     </td>
+## 📩 ¡Conecta conmigo!
 
+Para cualquier propuesta laboral, dudas o simplemente hablar de código, puedes encontrarme en:
+
+<p align="left">
+  <a href="https://linkedin.com/in/javiersaezz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:asaez22.az@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
   </tr>
 </table>
 
@@ -74,18 +85,7 @@ Hasta aquí la línea de comentario -->
 
 ---
 
-## 📩 ¡Conecta conmigo!
 
-Para cualquier propuesta laboral, dudas o simplemente hablar de código, puedes encontrarme en:
-
-<p align="left">
-  <a href="https://linkedin.com/in/javiersaezz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:asaez22.az@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
 
 
 <!--
