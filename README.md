@@ -5,9 +5,7 @@
       <p><strong>Desarrollador de Aplicaciones Web </strong></p>
       <p>Me especializo en la creación y optimización de soluciones integrales, combinando experiencia práctica tanto en Frontend como en Backend para resolver incidencias técnicas y aportar código funcional y estructurado.</p>
       <p>🚀 Habitual a metodologías ágiles (Scrum, ETHAZI) y siempre dispuesto a afrontar nuevos retos técnicos con autonomía y compromiso.</p>
-          ## 📩 ¡Conecta conmigo!
-
-          Para cualquier propuesta laboral, dudas o simplemente hablar de código, puedes encontrarme en:
+       <p>  Para cualquier propuesta laboral, dudas o simplemente hablar de código, puedes encontrarme en:</p>
 
   <p align="left">
     <a href="https://linkedin.com/in/javiersaezz" target="_blank">
