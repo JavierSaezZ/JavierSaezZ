@@ -62,6 +62,11 @@ Aplicación web basada en un sistema bancario oficial desarrollado colaborativam
 * **Tecnologías:** Desarrollo del Backend con **PHP** y gestión de datos relacionales. Frontend dinámico e interactivo construido con **JavaScript**, **jQuery**, **CSS** y **Sass**.
 * **Despliegue:** Configuración y subida exitosa del entorno a producción utilizando **Cpanel** y **GUEBS**.
 
+## 📂 [Mini-proyectos-web](https://github.com/JavierSaezZ/Mini-proyectos-web)
+Colección organizada de pequeños proyectos, utilidades interactivas y pruebas de concepto enfocadas en desarrollo web.
+**Características:** Incluye un sistema CRUD de notas estructuradas, un visor de imágenes con hotspots dinámicos (estilo IKEA), componentes interactivos con notas arrastrables y herramientas personalizadas de vídeo y captura.
+**Tecnologías:** Desarrollo Fullstack utilizando **PHP**, **MySQL**, **JavaScript (Vanilla JS)**, **jQuery**, **HTML5** y **CSS3** orientados a la persistencia local (`localStorage`) y manipulación del DOM.
+
 <!-- DESCOMENTAR ESTA SECCIÓN CUANDO SUBAS LOS PROYECTOS Borrando esta línea
 ### 📝 Blog Personal
 Espacio web dedicado a la publicación de artículos y gestión de contenidos.
