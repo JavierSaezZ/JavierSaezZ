@@ -59,7 +59,7 @@
 ### 🏦 [BancaOnline](https://github.com/JavierSaezz/BancaOnline)
 Aplicación web basada en un sistema bancario oficial desarrollado colaborativamente bajo metodología ágil.
 * **Arquitectura:** Estructura limpia basada en el patrón **Modelo-Vista-Controlador (MVC)** para separar la lógica de negocio de la interfaz.
-* **Tecnologías:** Desarrollo del Backend con **PHP** y gestión de datos relacionales. Frontend dinámico e interactivo construido con **JavaScript**, **jQuery**, **CSS** y **Sass**.
+* **Tecnologías:** Desarrollo del Backend con **PHP** y gestión de datos relacionales. Frontend dinámico e interactivo construido con **JavaScript**, **jQuery**, **CSS**, **Sass** y **AngularJs**.
 * **Despliegue:** Configuración y subida exitosa del entorno a producción utilizando **Cpanel** y **GUEBS**.
 
 ### 📂 [Mini-proyectos-web](https://github.com/JavierSaezZ/Mini-proyectos-web)
