@@ -62,6 +62,16 @@
 
 ## 💻 Proyectos Destacados
 
+### 🛍️ [Tienda E-commerce a Medida](https://github.com/JavierSaezZ/Tienda-Ropa-Cyberpunk)
+Plataforma web dinámica orientada a la creación de una solución de comercio electrónico a medida.
+* **Características:** Sistema de roles (Cliente y Administrador), gestión de catálogo, carrito de compras dinámico, simulación de pasarela de pago, notificaciones de estado y panel de control (CRUD) completo para inventario, categorías y ocultación de productos (soft deletes).
+* **Tecnologías:** Desarrollo Fullstack utilizando **PHP**, **MySQL**, **JavaScript**, **HTML5** y **CSS3**.
+
+### 🎮 [Blog de Videojuegos](https://github.com/JavierSaezZ/Blog-Videojuegos)
+Plataforma web dinámica orientada a la creación y gestión de contenidos (CMS) para un blog temático de videojuegos.
+* **Características:** Sistema completo de autenticación y panel de control (CRUD) para que los usuarios gestionen sus propias entradas, categorías y perfil personal.
+* **Tecnologías:** Desarrollo del Backend con **PHP** y gestión de base de datos relacional en **MySQL**. Frontend interactivo construido con **HTML5**, **CSS3** y **JavaScript**.
+
 ### 🏦 [BancaOnline](https://github.com/JavierSaezz/BancaOnline)
 Aplicación web basada en un sistema bancario oficial desarrollado colaborativamente bajo metodología ágil.
 * **Arquitectura:** Estructura limpia basada en el patrón **Modelo-Vista-Controlador (MVC)** para separar la lógica de negocio de la interfaz.
@@ -73,16 +83,8 @@ Colección organizada de pequeños proyectos, utilidades interactivas y pruebas 
 **Características:** Incluye un sistema CRUD de notas estructuradas, un visor de imágenes con hotspots dinámicos (estilo IKEA), componentes interactivos con notas arrastrables y herramientas personalizadas de vídeo y captura.
 **Tecnologías:** Desarrollo Fullstack utilizando **PHP**, **MySQL**, **JavaScript (Vanilla JS)**, **jQuery**, **HTML5** y **CSS3** orientados a la persistencia local (`localStorage`) y manipulación del DOM.
 
-### 🎮 [Blog de Videojuegos](https://github.com/JavierSaezZ/Blog-Videojuegos)
-Plataforma web dinámica orientada a la creación y gestión de contenidos (CMS) para un blog temático de videojuegos.
-* **Características:** Sistema completo de autenticación y panel de control (CRUD) para que los usuarios gestionen sus propias entradas, categorías y perfil personal.
-* **Tecnologías:** Desarrollo del Backend con **PHP** y gestión de base de datos relacional en **MySQL**. Frontend interactivo construido con **HTML5**, **CSS3** y **JavaScript**.
 
 <!--
-### 🛒 Tienda Online
-Plataforma de comercio electrónico con flujo completo de usuario.
-* **Características:** Carrito de compras funcional, sistema de autenticación de usuarios y pasarela de gestión de stock.
-* **Tecnologías:** PHP para la lógica del servidor, sesiones de usuario seguras y base de datos MySQL estructurada.
 
 ### 👥 Red Social
 Aplicación interactiva para conectar usuarios en tiempo real.
