@@ -67,12 +67,12 @@ Colección organizada de pequeños proyectos, utilidades interactivas y pruebas 
 **Características:** Incluye un sistema CRUD de notas estructuradas, un visor de imágenes con hotspots dinámicos (estilo IKEA), componentes interactivos con notas arrastrables y herramientas personalizadas de vídeo y captura.
 **Tecnologías:** Desarrollo Fullstack utilizando **PHP**, **MySQL**, **JavaScript (Vanilla JS)**, **jQuery**, **HTML5** y **CSS3** orientados a la persistencia local (`localStorage`) y manipulación del DOM.
 
-<!-- DESCOMENTAR ESTA SECCIÓN CUANDO SUBAS LOS PROYECTOS Borrando esta línea
-### 📝 Blog Personal
-Espacio web dedicado a la publicación de artículos y gestión de contenidos.
-* **Características:** Panel de administración para gestión de posts, categorías y comentarios.
-* **Tecnologías:** PHP, MySQL para el almacenamiento de entradas y maquetación limpia con HTML/Sass.
+### 🎮 [Blog de Videojuegos](https://github.com/JavierSaezZ/Blog-de-Videojuegos)
+Plataforma web dinámica orientada a la creación y gestión de contenidos (CMS) para un blog temático de videojuegos.
+* **Características:** Sistema completo de autenticación y panel de control (CRUD) para que los usuarios gestionen sus propias entradas, categorías y perfil personal.
+* **Tecnologías:** Desarrollo del Backend con **PHP** y gestión de base de datos relacional en **MySQL**. Frontend interactivo construido con **HTML5**, **CSS3** y **JavaScript**.
 
+<!--
 ### 🛒 Tienda Online
 Plataforma de comercio electrónico con flujo completo de usuario.
 * **Características:** Carrito de compras funcional, sistema de autenticación de usuarios y pasarela de gestión de stock.
