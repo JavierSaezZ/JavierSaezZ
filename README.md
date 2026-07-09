@@ -67,7 +67,7 @@ Colección organizada de pequeños proyectos, utilidades interactivas y pruebas 
 **Características:** Incluye un sistema CRUD de notas estructuradas, un visor de imágenes con hotspots dinámicos (estilo IKEA), componentes interactivos con notas arrastrables y herramientas personalizadas de vídeo y captura.
 **Tecnologías:** Desarrollo Fullstack utilizando **PHP**, **MySQL**, **JavaScript (Vanilla JS)**, **jQuery**, **HTML5** y **CSS3** orientados a la persistencia local (`localStorage`) y manipulación del DOM.
 
-### 🎮 [Blog de Videojuegos](https://github.com/JavierSaezZ/Blog-de-Videojuegos)
+### 🎮 [Blog de Videojuegos](https://github.com/JavierSaezZ/Blog-Videojuegos)
 Plataforma web dinámica orientada a la creación y gestión de contenidos (CMS) para un blog temático de videojuegos.
 * **Características:** Sistema completo de autenticación y panel de control (CRUD) para que los usuarios gestionen sus propias entradas, categorías y perfil personal.
 * **Tecnologías:** Desarrollo del Backend con **PHP** y gestión de base de datos relacional en **MySQL**. Frontend interactivo construido con **HTML5**, **CSS3** y **JavaScript**.
