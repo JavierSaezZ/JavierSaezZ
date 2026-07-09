@@ -48,8 +48,8 @@
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavierSaezz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Javier" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierSaezz&layout=compact&theme=dark&langs_count=6" alt="Lenguajes más usados por Javier" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JavierSaezZ&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=1" alt="Estadísticas de GitHub de Javier" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavierSaezZ&layout=compact&theme=dark&langs_count=6&v=1" alt="Lenguajes más usados por Javier" height="180" />
 </p>
 
 ---
