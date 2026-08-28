@@ -62,6 +62,11 @@
 
 ## 💻 Proyectos Destacados
 
+### 📸 [Aquim - Red Social](https://github.com/JavierSaezZ/Aquim-Red-Social)
+Red social de imágenes desarrollada como una plataforma completa de publicación e interacción entre usuarios.
+* **Características:** Sistema de autenticación, perfiles personalizados, publicación y gestión de imágenes, likes, comentarios, seguimiento entre usuarios, buscador, notificaciones, estadísticas, recuperación de contraseña, autenticación en dos pasos y diseño responsive adaptado a dispositivos móviles.
+* **Tecnologías:** Desarrollo Fullstack con **Laravel**, **PHP**, **MySQL**, **JavaScript**, **HTML5** y **CSS3**, utilizando **Jetstream** para la gestión de autenticación y funcionalidades de usuario.
+
 ### 🛍️ [Tienda E-commerce a Medida](https://github.com/JavierSaezZ/Tienda-Ropa-Cyberpunk)
 Plataforma web dinámica orientada a la creación de una solución de comercio electrónico a medida.
 * **Características:** Sistema de roles (Cliente y Administrador), gestión de catálogo, carrito de compras dinámico, simulación de pasarela de pago, notificaciones de estado y panel de control (CRUD) completo para inventario, categorías y ocultación de productos (soft deletes).
