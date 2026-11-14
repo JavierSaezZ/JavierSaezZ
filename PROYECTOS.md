@@ -8,7 +8,7 @@ Una selección de aplicaciones, proyectos académicos y ejercicios de desarrollo
 
 <br>
 
-### ✦ | LÚMINA — Gestor de tareas e incidencias<br><img src="./assets/linea-titulo-v2.svg" width="425" height="4" alt="" />
+### ✦ | LÚMINA — Gestor de tareas e incidencias<br>────────
 
 Aplicación **Fullstack** para gestionar proyectos y tareas en una agencia espacial ficticia. Combina una API en Symfony con una interfaz en React para organizar el trabajo y consultar el estado de las tareas.
 
@@ -32,7 +32,7 @@ Aplicación **Fullstack** para gestionar proyectos y tareas en una agencia espac
 
 <br>
 
-### [📸 | Aquim — Red Social](https://github.com/JavierSaezZ/Aquim-Red-Social#%EF%B8%8F-disclaimer--)<br>────────────────────────────────
+### [📸 | Aquim — Red Social](https://github.com/JavierSaezZ/Aquim-Red-Social#%EF%B8%8F-disclaimer--)<br>────────
 
 Red social de imágenes centrada en la publicación de contenido y la interacción entre usuarios, desarrollada con **Laravel** siguiendo una arquitectura **MVC**.
 
@@ -54,7 +54,7 @@ Red social de imágenes centrada en la publicación de contenido y la interacci�
 
 <br>
 
-### [🛍️ | Tienda E-commerce a Medida](https://github.com/JavierSaezZ/Tienda-Ropa-Cyberpunk)<br><img src="./assets/linea-titulo-v2.svg" width="325" height="4" alt="" />
+### [🛍️ | Tienda E-commerce a Medida](https://github.com/JavierSaezZ/Tienda-Ropa-Cyberpunk)<br>────────
 
 Aplicación de comercio electrónico desarrollada a medida en PHP y MySQL, con una estructura basada en el patrón **Modelo-Vista-Controlador (MVC)**.
 
@@ -76,7 +76,7 @@ Aplicación de comercio electrónico desarrollada a medida en PHP y MySQL, con u
 
 <br>
 
-### [🎮 | Blog de Videojuegos](https://github.com/JavierSaezZ/Blog-Videojuegos)<br><img src="./assets/linea-titulo-v2.svg" width="270" height="4" alt="" />
+### [🎮 | Blog de Videojuegos](https://github.com/JavierSaezZ/Blog-Videojuegos)<br>────────
 
 Plataforma web de publicación y administración de contenidos sobre videojuegos, con funciones propias de un **CMS**.
 
@@ -97,7 +97,7 @@ Plataforma web de publicación y administración de contenidos sobre videojuegos
 
 <br>
 
-### 📚 | Ejercicios del curso — Desarrollo web<br><img src="./assets/linea-titulo-v2.svg" width="400" height="4" alt="" />
+### 📚 | Ejercicios del curso — Desarrollo web<br>────────
 
 Colección de prácticas realizadas durante la formación, principalmente sobre **PHP**, bases de datos y desarrollo de aplicaciones web, con ejercicios dedicados a Laravel, Symfony y React.
 
@@ -120,7 +120,7 @@ Colección de prácticas realizadas durante la formación, principalmente sobre 
 
 <br>
 
-### [📂 | Mini-proyectos-web](https://github.com/JavierSaezZ/Mini-proyectos-web)<br><img src="./assets/linea-titulo-v2.svg" width="250" height="4" alt="" />
+### [📂 | Mini-proyectos-web](https://github.com/JavierSaezZ/Mini-proyectos-web)<br>────────
 
 Colección de pequeños proyectos, utilidades y pruebas de concepto centradas en el desarrollo web y la interacción con el navegador.
 
@@ -141,7 +141,7 @@ Colección de pequeños proyectos, utilidades y pruebas de concepto centradas en
 
 <br>
 
-### [🏦 | BancaOnline — Simulación bancaria (DAW)](https://github.com/JavierSaezz/BancaOnline)<br><img src="./assets/linea-titulo-v2.svg" width="410" height="4" alt="" />
+### [🏦 | BancaOnline — Simulación bancaria (DAW)](https://github.com/JavierSaezz/BancaOnline)<br>────────
 
 **Proyecto desarrollado en equipo**: aplicación web de simulación bancaria con gestión de cuentas, operaciones entre usuarios y herramientas de administración. Incluye un despliegue realizado como parte de un reto de DAW.
 
@@ -165,7 +165,7 @@ Colección de pequeños proyectos, utilidades y pruebas de concepto centradas en
 
 <br>
 
-### [🖥️ | Game-over — Tienda de tecnología (DAW)](https://github.com/JavierSaezZ/Game-over)<br><img src="./assets/linea-titulo-v2.svg" width="420" height="4" alt="" />
+### [🖥️ | Game-over — Tienda de tecnología (DAW)](https://github.com/JavierSaezZ/Game-over)<br>────────
 
 **Proyecto en grupo**: tienda web sencilla especializada en tecnología, centrada en presentar productos y ofrecer acceso mediante cuentas de usuario.
 
@@ -186,7 +186,7 @@ Colección de pequeños proyectos, utilidades y pruebas de concepto centradas en
 
 <br>
 
-### [🎪 | Crazy Festival — Web de festival musical (DAW)](https://github.com/JavierSaezZ/Crazy-Festival-Reto)<br><img src="./assets/linea-titulo-v2.svg" width="435" height="4" alt="" />
+### [🎪 | Crazy Festival — Web de festival musical (DAW)](https://github.com/JavierSaezZ/Crazy-Festival-Reto)<br>────────
 
 **Proyecto en grupo**: página informativa para presentar un festival de música, su cartel y los artistas participantes.
 
