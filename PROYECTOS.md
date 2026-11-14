@@ -32,7 +32,7 @@ Aplicación **Fullstack** para gestionar proyectos y tareas en una agencia espac
 
 <br>
 
-### [📸 | Aquim — Red Social](https://github.com/JavierSaezZ/Aquim-Red-Social#%EF%B8%8F-disclaimer--)<br────────────────────────────────
+### [📸 | Aquim — Red Social](https://github.com/JavierSaezZ/Aquim-Red-Social#%EF%B8%8F-disclaimer--)<br>────────────────────────────────
 
 Red social de imágenes centrada en la publicación de contenido y la interacción entre usuarios, desarrollada con **Laravel** siguiendo una arquitectura **MVC**.
 
