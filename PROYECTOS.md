@@ -46,7 +46,6 @@ Red social de imágenes centrada en la publicación de contenido y la interacci�
 ---
 
 ### 🛍️ | [Tienda E-commerce a Medida](https://github.com/JavierSaezZ/Tienda-Ropa-Cyberpunk)
-
 <img src="./assets/linea-titulo.svg" width="325" height="2" alt="" />
 
 Aplicación de comercio electrónico desarrollada a medida en PHP y MySQL, con una estructura basada en el patrón **Modelo-Vista-Controlador (MVC)**.
