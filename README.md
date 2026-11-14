@@ -1,26 +1,19 @@
-<table border="0" width="100%">
-  <tr>
-    <td width="70%" valign="top">
-      <h1>¡Hola! Soy Javier Sáez 👋</h1>
-      <p><strong>Desarrollador de Aplicaciones Web</strong></p>
-      <p>Me especializo en la creación y optimización de soluciones integrales, combinando experiencia práctica tanto en Frontend como en Backend para resolver incidencias técnicas y aportar código funcional y estructurado.</p>
-      <p>🚀 Habitual a metodologías ágiles (Scrum, ETHAZI) y siempre dispuesto a afrontar nuevos retos técnicos con autonomía y compromiso.</p>
-      <p>Para cualquier propuesta laboral, dudas o simplemente hablar de código, puedes encontrarme en:</p>
+# ¡Hola! Soy Javier Sáez 👋
 
-      <p align="left">
-        <a href="https://linkedin.com/in/javiersaezz" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-        <a href="mailto:asaez22.az@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+**Desarrollador de Aplicaciones Web**
 
+Me especializo en la creación y optimización de soluciones integrales, combinando experiencia práctica tanto en Frontend como en Backend para resolver incidencias técnicas y aportar código funcional y estructurado.
+
+🚀 Habitual a metodologías ágiles (Scrum, ETHAZI) y siempre dispuesto a afrontar nuevos retos técnicos con autonomía y compromiso.
+
+Para cualquier propuesta laboral, dudas o simplemente hablar de código, puedes encontrarme en:
+
+<p align="left">
+  <a href="https://linkedin.com/in/javiersaezz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:asaez22.az@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 <br>
-<p align="center">━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 <br>
 
 ## 💻 Mis proyectos
@@ -30,7 +23,7 @@ He desarrollado **aplicaciones Fullstack, plataformas web, proyectos colaborativ
 ### 📂 [Ver todos mis proyectos →](./PROYECTOS.md)
 
 <br>
-<p align="center">━━━━━━━━━━━━━━ 🛠️ ━━━━━━━━━━━━━━</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 <br>
 
 ## 🛠️ Tecnologías y Herramientas
@@ -52,9 +45,6 @@ He desarrollado **aplicaciones Fullstack, plataformas web, proyectos colaborativ
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
-### Arquitecturas y desarrollo
-Experiencia con el patrón **Modelo-Vista-Controlador (MVC)** en aplicaciones PHP/Laravel y con **API REST** mediante **Symfony** y **Doctrine ORM**, conectando un backend independiente con un frontend desarrollado en **React**.
-
 ### Entornos y Herramientas de Trabajo
 <p align="left">
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078D7?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
@@ -67,8 +57,10 @@ Experiencia con el patrón **Modelo-Vista-Controlador (MVC)** en aplicaciones PH
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
 </p>
 
+### Arquitecturas y desarrollo
+Experiencia con el patrón **Modelo-Vista-Controlador (MVC)** en aplicaciones PHP/Laravel y con **API REST** mediante **Symfony** y **Doctrine ORM**, conectando un backend independiente con un frontend desarrollado en **React**.
 <br>
-<p align="center">━━━━━━━━━━━━━━ 📈 ━━━━━━━━━━━━━━</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 <br>
 
 ## 📈 Estadísticas de GitHub
