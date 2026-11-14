@@ -6,8 +6,6 @@ Una selección de aplicaciones, proyectos académicos y ejercicios de desarrollo
 
 ### ✦ | LÚMINA — Gestor de tareas e incidencias
 
-<p>━━━━━━━━━━━━━━━━</p>
-
 Aplicación **Fullstack** para gestionar proyectos y tareas en una agencia espacial ficticia. Combina una API en Symfony con una interfaz en React para organizar el trabajo y consultar el estado de las tareas.
 
 **Características principales:**
