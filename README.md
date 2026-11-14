@@ -12,16 +12,21 @@ Para cualquier propuesta laboral, dudas o simplemente hablar de código, puedes 
   <a href="https://linkedin.com/in/javiersaezz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:asaez22.az@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
+
+<br>
 <br>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 <br>
 
 ## 💻 Mis proyectos
 
-He desarrollado **aplicaciones Fullstack, plataformas web, proyectos colaborativos y ejercicios de formación**, utilizando distintas tecnologías y arquitecturas. En el catálogo puedes consultar sus funcionalidades principales, las tecnologías empleadas y los enlaces a sus repositorios.
+En esta sección reúno los proyectos con los que he puesto en práctica mis conocimientos de **desarrollo web Fullstack**, desde la planificación y las bases de datos hasta la creación de interfaces y funcionalidades reales. Entre ellos se encuentra **Aquim**, una red social de imágenes desarrollada con Laravel, además de una **tienda e-commerce a medida**, un **blog de videojuegos** y **BancaOnline**, un proyecto colaborativo de simulación bancaria con transferencias y gestión de usuarios.
+
+También estoy trabajando en **LÚMINA**, un gestor de proyectos y tareas con **Symfony y React** que incorporaré a mi portafolio a medida que avance su desarrollo. Si quieres conocer cómo están construidas estas aplicaciones, qué tecnologías he utilizado y qué funcionalidades ofrece cada una, puedes explorar el catálogo completo y acceder a sus repositorios.
 
 ### 📂 [Ver todos mis proyectos →](./PROYECTOS.md)
 
+<br>
 <br>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 <br>
@@ -59,6 +64,8 @@ He desarrollado **aplicaciones Fullstack, plataformas web, proyectos colaborativ
 
 ### Arquitecturas y desarrollo
 Experiencia con el patrón **Modelo-Vista-Controlador (MVC)** en aplicaciones PHP/Laravel y con **API REST** mediante **Symfony** y **Doctrine ORM**, conectando un backend independiente con un frontend desarrollado en **React**.
+
+<br>
 <br>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 <br>
