@@ -15,7 +15,7 @@ Para cualquier propuesta laboral, dudas o simplemente hablar de código, puedes 
 
 <br>
 <br>
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center"><img src="./assets/linea-titulo-v2.svg" alt="" width="300" height="4"></p>
 <br>
 
 ## 💻 Mis proyectos
@@ -28,7 +28,7 @@ También estoy trabajando en **LÚMINA**, un gestor de proyectos y tareas con **
 
 <br>
 <br>
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center"><img src="./assets/linea-titulo-v2.svg" alt="" width="300" height="4"></p>
 <br>
 
 ## 🛠️ Tecnologías y Herramientas
@@ -67,7 +67,7 @@ Experiencia con el patrón **Modelo-Vista-Controlador (MVC)** en aplicaciones PH
 
 <br>
 <br>
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center"><img src="./assets/linea-titulo-v2.svg" alt="" width="300" height="4"></p>
 <br>
 
 ## 📈 Estadísticas de GitHub
