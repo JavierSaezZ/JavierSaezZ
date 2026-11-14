@@ -14,11 +14,12 @@ Para cualquier propuesta laboral, dudas o simplemente hablar de código, puedes 
 </p>
 
 <br>
-<br>
-<p align="center"><img src="./assets/linea-titulo-v2.svg" alt="" width="300" height="4"></p>
+
+---
+
 <br>
 
-## 💻 Mis proyectos
+<h3>💻 Mis proyectos<br><img src="./assets/linea-titulo-v2.svg" alt="" width="200" height="4"></h3>
 
 En esta sección reúno los proyectos con los que he puesto en práctica mis conocimientos de **desarrollo web Fullstack**, desde la planificación y las bases de datos hasta la creación de interfaces y funcionalidades reales. Entre ellos se encuentra **Aquim**, una red social de imágenes desarrollada con Laravel, además de una **tienda e-commerce a medida**, un **blog de videojuegos** y **BancaOnline**, un proyecto colaborativo de simulación bancaria con transferencias y gestión de usuarios.
 
@@ -27,13 +28,14 @@ También estoy trabajando en **LÚMINA**, un gestor de proyectos y tareas con **
 ### 📂 [Ver todos mis proyectos →](./PROYECTOS.md)
 
 <br>
-<br>
-<p align="center"><img src="./assets/linea-titulo-v2.svg" alt="" width="300" height="4"></p>
+
+---
+
 <br>
 
-## 🛠️ Tecnologías y Herramientas
+<h3>🛠️ Tecnologías y Herramientas<br><img src="./assets/linea-titulo-v2.svg" alt="" width="315" height="4"></h3>
 
-### Lenguajes, frameworks y bases de datos
+#### Lenguajes, frameworks y bases de datos
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
@@ -50,7 +52,7 @@ También estoy trabajando en **LÚMINA**, un gestor de proyectos y tareas con **
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
-### Entornos y Herramientas de Trabajo
+#### Entornos y Herramientas de Trabajo
 <p align="left">
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078D7?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
@@ -62,15 +64,16 @@ También estoy trabajando en **LÚMINA**, un gestor de proyectos y tareas con **
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
 </p>
 
-### Arquitecturas y desarrollo
+#### Arquitecturas y desarrollo
 Experiencia con el patrón **Modelo-Vista-Controlador (MVC)** en aplicaciones PHP/Laravel y con **API REST** mediante **Symfony** y **Doctrine ORM**, conectando un backend independiente con un frontend desarrollado en **React**.
 
 <br>
-<br>
-<p align="center"><img src="./assets/linea-titulo-v2.svg" alt="" width="300" height="4"></p>
+
+---
+
 <br>
 
-## 📈 Estadísticas de GitHub
+<h3>📈 Estadísticas de GitHub<br><img src="./assets/linea-titulo-v2.svg" alt="" width="260" height="4"></h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JavierSaezZ&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=2" alt="Estadísticas de GitHub de Javier" height="180" />
