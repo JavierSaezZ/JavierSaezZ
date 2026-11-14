@@ -2,9 +2,11 @@
 
 Una selección de aplicaciones, proyectos académicos y ejercicios de desarrollo web. Aquí resumo sus funcionalidades y tecnologías; cada título enlaza al repositorio cuando está disponible.
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+---
 
-## ✦ | LÚMINA — Gestor de tareas e incidencias
+### ✦ | LÚMINA — Gestor de tareas e incidencias
+
+<img src="./assets/linea-titulo.svg" width="425" height="2" alt="" />
 
 Aplicación **Fullstack** para gestionar proyectos y tareas en una agencia espacial ficticia. Combina una API en Symfony con una interfaz en React para organizar el trabajo y consultar el estado de las tareas.
 
@@ -22,9 +24,11 @@ Aplicación **Fullstack** para gestionar proyectos y tareas en una agencia espac
 
 **Estado:** En desarrollo · *Repositorio pendiente de publicar.*
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+---
 
-## 📸 | [Aquim — Red Social](https://github.com/JavierSaezZ/Aquim-Red-Social)
+### 📸 | [Aquim — Red Social](https://github.com/JavierSaezZ/Aquim-Red-Social)
+
+<img src="./assets/linea-titulo.svg" width="245" height="2" alt="" />
 
 Red social de imágenes centrada en la publicación de contenido y la interacción entre usuarios, desarrollada con **Laravel** siguiendo una arquitectura **MVC**.
 
@@ -40,9 +44,11 @@ Red social de imágenes centrada en la publicación de contenido y la interacci�
 
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" height="20"> <img alt="Jetstream" src="https://img.shields.io/badge/Jetstream-FF2D20?style=flat-square&logo=laravel&logoColor=white" height="20"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="20"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20">
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+---
 
-## 🛍️ | [Tienda E-commerce a Medida](https://github.com/JavierSaezZ/Tienda-Ropa-Cyberpunk)
+### 🛍️ | [Tienda E-commerce a Medida](https://github.com/JavierSaezZ/Tienda-Ropa-Cyberpunk)
+
+<img src="./assets/linea-titulo.svg" width="325" height="2" alt="" />
 
 Aplicación de comercio electrónico desarrollada a medida en PHP y MySQL, con una estructura basada en el patrón **Modelo-Vista-Controlador (MVC)**.
 
@@ -58,9 +64,11 @@ Aplicación de comercio electrónico desarrollada a medida en PHP y MySQL, con u
 
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="20"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20"> <img alt="MVC" src="https://img.shields.io/badge/MVC-596579?style=flat-square&logoColor=white" height="20">
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+---
 
-## 🎮 | [Blog de Videojuegos](https://github.com/JavierSaezZ/Blog-Videojuegos)
+### 🎮 | [Blog de Videojuegos](https://github.com/JavierSaezZ/Blog-Videojuegos)
+
+<img src="./assets/linea-titulo.svg" width="270" height="2" alt="" />
 
 Plataforma web de publicación y administración de contenidos sobre videojuegos, con funciones propias de un **CMS**.
 
@@ -75,9 +83,11 @@ Plataforma web de publicación y administración de contenidos sobre videojuegos
 
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="20"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20">
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+---
 
-## 📚 | Ejercicios del curso — Desarrollo web
+### 📚 | Ejercicios del curso — Desarrollo web
+
+<img src="./assets/linea-titulo.svg" width="400" height="2" alt="" />
 
 Colección de prácticas realizadas durante la formación, principalmente sobre **PHP**, bases de datos y desarrollo de aplicaciones web, con ejercicios dedicados a Laravel, Symfony y React.
 
@@ -94,9 +104,11 @@ Colección de prácticas realizadas durante la formación, principalmente sobre 
 
 *Repositorio pendiente de publicar.*
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+---
 
-## 📂 | [Mini-proyectos-web](https://github.com/JavierSaezZ/Mini-proyectos-web)
+### 📂 | [Mini-proyectos-web](https://github.com/JavierSaezZ/Mini-proyectos-web)
+
+<img src="./assets/linea-titulo.svg" width="250" height="2" alt="" />
 
 Colección de pequeños proyectos, utilidades y pruebas de concepto centradas en el desarrollo web y la interacción con el navegador.
 
@@ -111,9 +123,11 @@ Colección de pequeños proyectos, utilidades y pruebas de concepto centradas en
 
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="20"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"> <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" height="20"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20">
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+---
 
-## 🏦 | [BancaOnline — Simulación bancaria (DAW)](https://github.com/JavierSaezz/BancaOnline)
+### 🏦 | [BancaOnline — Simulación bancaria (DAW)](https://github.com/JavierSaezz/BancaOnline)
+
+<img src="./assets/linea-titulo.svg" width="410" height="2" alt="" />
 
 **Proyecto desarrollado en equipo**: aplicación web de simulación bancaria con gestión de cuentas, operaciones entre usuarios y herramientas de administración. Incluye un despliegue realizado como parte de un reto de DAW.
 
@@ -131,9 +145,11 @@ Colección de pequeños proyectos, utilidades y pruebas de concepto centradas en
 
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="20"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"> <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" height="20"> <img alt="AngularJS" src="https://img.shields.io/badge/AngularJS-B52E31?style=flat-square&logo=angularjs&logoColor=white" height="20"> <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" height="20"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20"> <img alt="MVC" src="https://img.shields.io/badge/MVC-596579?style=flat-square&logoColor=white" height="20">
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+---
 
-## 🖥️ | [Game-over — Tienda de tecnología (DAW)](https://github.com/JavierSaezZ/Game-over)
+### 🖥️ | [Game-over — Tienda de tecnología (DAW)](https://github.com/JavierSaezZ/Game-over)
+
+<img src="./assets/linea-titulo.svg" width="420" height="2" alt="" />
 
 **Proyecto en grupo**: tienda web sencilla especializada en tecnología, centrada en presentar productos y ofrecer acceso mediante cuentas de usuario.
 
@@ -148,9 +164,11 @@ Colección de pequeños proyectos, utilidades y pruebas de concepto centradas en
 
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="20"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"> <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" height="20"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20">
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+---
 
-## 🎪 | [Crazy Festival — Web de festival musical (DAW)](https://github.com/JavierSaezZ/Crazy-Festival-Reto)
+### 🎪 | [Crazy Festival — Web de festival musical (DAW)](https://github.com/JavierSaezZ/Crazy-Festival-Reto)
+
+<img src="./assets/linea-titulo.svg" width="435" height="2" alt="" />
 
 **Proyecto en grupo**: página informativa para presentar un festival de música, su cartel y los artistas participantes.
 
@@ -165,6 +183,6 @@ Colección de pequeños proyectos, utilidades y pruebas de concepto centradas en
 
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20">
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+---
 
 [← Volver a mi perfil de GitHub](https://github.com/JavierSaezZ)
