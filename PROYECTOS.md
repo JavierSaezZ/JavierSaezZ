@@ -97,7 +97,7 @@ Plataforma web de publicación y administración de contenidos sobre videojuegos
 
 <br>
 
-### 📚 | Ejercicios del curso — PHP, Laravel, Symfony y React<br>────────
+### [📚 | Ejercicios del curso — PHP, Laravel, Symfony y React](https://github.com/JavierSaezZ/MasterPHP-Curso)<br>────────
 
 Repositorio de **ejercicios y prácticas de desarrollo web** organizados por tecnologías. Reúne desde fundamentos de PHP y SQL hasta pequeños CRUD e interfaces con Laravel, Symfony y React. Son trabajos de aprendizaje independientes, no una única aplicación.
 
@@ -112,8 +112,6 @@ Repositorio de **ejercicios y prácticas de desarrollo web** organizados por tec
 **Tecnologías utilizadas:**
 
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="20"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" height="20"> <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" height="20"> <img alt="React" src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" height="20"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20">
-
-*El enlace directo al repositorio se añadirá cuando se confirme su URL en GitHub.*
 
 <br>
 
